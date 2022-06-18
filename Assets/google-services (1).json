@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781596715384",
+    "firebase_url": "https://unamedplatformer-3e7a2-default-rtdb.firebaseio.com",
+    "project_id": "unamedplatformer-3e7a2",
+    "storage_bucket": "unamedplatformer-3e7a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781596715384:android:5f08bb2cb03893fa84c08d",
+        "android_client_info": {
+          "package_name": "com.ChristianRedshaw.databaseUnamedPlatformer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781596715384-1ja8cpm96tq2vd9e372qcdm23p20b7k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg1h8ndRbg7fFwUP4sIX3jJ8SL_BHcaCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781596715384-1ja8cpm96tq2vd9e372qcdm23p20b7k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
